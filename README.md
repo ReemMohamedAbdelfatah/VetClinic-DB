@@ -114,11 +114,6 @@ That's it! Congratulations, you have created your database and connected to it. 
 - Twitter: [@twitterhandle](https://twitter.com/ReemMoh67016126)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/reemmuhammad/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
