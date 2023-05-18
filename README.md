@@ -12,6 +12,7 @@
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Creating a database ](#creating-a-database-)
+    - [Creating a diagram ](#creating-a-diagram-)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -102,6 +103,12 @@ That's it! Congratulations, you have created your database and connected to it. 
 - Use [schema.sql](./schema.sql) to create all tables.
 - Use [data.sql](./data.sql) to populate tables with sample data.
 - Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Creating a diagram <a name="creating-a-diagram"></a>
+
+![diagram](diagram/Vet%20Clinic.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
