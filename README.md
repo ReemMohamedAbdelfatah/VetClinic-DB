@@ -69,7 +69,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-  git clone git@github.com:KanzaTahreem/Vet-Clinic-Database.git
+  git clone git@github.com:ReemMohamedAbdelfatah/VetClinic-DB.git
   cd Vet-Clinic-Database
 ```
 
